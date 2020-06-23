@@ -1,0 +1,1 @@
+python D:\Juanpa\Programacion\Python\CS50_Introduction_to_Artificial_Intelligence_with_Python_Certificación_Harvard\Search\Recursos y hechos por mi\Laberinto.py D:\Juanpa\Programacion\Python\CS50_Introduction_to_Artificial_Intelligence_with_Python_Certificación_Harvard\Search\Recursos y hechos por mi\src0\maze2.txt
